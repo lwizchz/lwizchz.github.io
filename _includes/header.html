@@ -1,0 +1,17 @@
+<!-- HEADER -->
+<div id="header_wrap" class="outer">
+  <header class="inner">
+    <a href="{{ '/' | relative_url }}">
+      <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+    </a>
+
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
+    {%- assign page_titles = site.pages | map: 'title' | compact %}
+    {%- unless page_titles == empty %}
+      <nav class="site-nav">
+        {% include nav-items.html paths = page_paths %}
+      </nav>
+    {%- endunless %}
+  </header>
+</div>

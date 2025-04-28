@@ -1,0 +1,18 @@
+<div id="footer_wrap" class="outer">
+  <link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css">
+
+  <footer class="inner h-card">
+    <data class="u-url" value="{{ '/' | relative_url }}"></data>
+
+    <p>
+      {%- if site.author %}
+          copyright &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+          <br />
+          <a href="https://instagram.com/{{ site.author.instagram }}">Instagram</a>
+          |
+          <a class="u-email" href="mailto:{{ site.author.email }}">Email</a>
+      {%- endif %}
+    </p>
+
+  </footer>
+</div>
