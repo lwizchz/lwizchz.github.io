@@ -1,0 +1,22 @@
+<div id="{{ include.id }}" class="embed-audio-ab">
+    <audio id="{{ include.id }}-a" src="{{ include.src-a }}" preload="auto">
+        Your browser does not support the audio element.
+    </audio>
+    <audio id="{{ include.id }}-b" src="{{ include.src-b }}" preload="auto">
+        Your browser does not support the audio element.
+    </audio>
+
+    <button id="{{ include.id }}-playpause" style="font-size: x-large;" data-state="pause">⏵</button>
+
+    <input id="{{ include.id }}-time" type="range" min="0.0" max="1.0" step="any" />
+    <label for="{{ include.id }}-time-position">0:00</label>
+    /
+    <label for="{{ include.id }}-time-duration">0:00</label>
+
+    <label for="{{ include.id }}-switch" style="border: solid 1px; padding: 5px;">
+        <input id="{{ include.id }}-switch" type="checkbox" />
+        A/B:
+        <span id="{{ include.id}}-label-a">{{ include.label-a }}</span>
+        <span id="{{ include.id}}-label-b" hidden="true">{{ include.label-b }}</span>
+    </label>
+</div>
