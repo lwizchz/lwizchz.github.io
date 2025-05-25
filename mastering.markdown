@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Mastering
+permalink: /mastering/
 ---
 
 Eloise Montalvo has been involved in the Austin music scene since 2021, playing shows, running
