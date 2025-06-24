@@ -11,7 +11,7 @@ Instagram DM [@eloise.rgb][instagram].
 
 ### Mastering Engineer Credits
 
- * *Runaway* EP - Bad Luck Penny [folk punk, 2025?]
+ * [*Runaway* EP - Bad Luck Penny][blp_runaway] [folk punk, 2025]
  * [*Passion is Failing* EP - rebecka][rebecka_passion] [screamo, 2025]
  * [*egomania // anhedonia* LP - cow mangler 5000][cm5k_egomania] [post-punk, 2024]
 
@@ -26,6 +26,7 @@ Instagram DM [@eloise.rgb][instagram].
 [email]: mailto:eloise@emote.ch
 [instagram]: https://instagram.com/eloise.rgb
 
+[blp_runaway]: https://badluckpenny.bandcamp.com/album/runaway
 [rebecka_passion]: https://rebecka.bandcamp.com/album/passion-is-failing
 [cm5k_egomania]: https://cowmangler5000.bandcamp.com/album/egomania-anhedonia
 
