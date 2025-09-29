@@ -5,12 +5,12 @@ permalink: /mastering/
 ---
 
 Eloise Montalvo has been involved in the Austin music scene since 2021, playing shows, running
-sound, recording, mixing, mastering, and more. She is currently accepting work for digital
-mastering which can be discussed via email at [eloise@emote.ch][email] or via
-Instagram DM [@eloise.rgb][instagram].
+sound, recording, mixing, mastering, and more. She is currently accepting work for mastering which
+can be discussed via email at [eloise@emote.ch][email] or via Instagram DM [@eloise.rgb][instagram].
 
 ### Mastering Engineer Credits
 
+ * *Split* EP - Oshera / Tamsen [screamo, 2025, tape master only]
  * [*Runaway* EP - Bad Luck Penny][blp_runaway] [folk punk, 2025]
  * [*Passion is Failing* EP - rebecka][rebecka_passion] [screamo, 2025]
  * [*egomania // anhedonia* LP - cow mangler 5000][cm5k_egomania] [post-punk, 2024]
