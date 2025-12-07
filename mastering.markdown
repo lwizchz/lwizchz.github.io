@@ -10,7 +10,7 @@ can be discussed via email at [eloise@emote.ch][email] or via Instagram DM [@elo
 
 ### Mastering Engineer Credits
 
- * *Untitled* EP - Peroxide Gut [grindcore, 2025?]
+ * [*I wish i could never hear this album again* EP - Peroxide Gut][peroxide_iwish] [grindcore, 2025]
  * *Treat Box* LP - Team Trust [art punk, 2025, tape master only]
  * *Split* EP - Oshera / Tamsen [screamo, 2025, tape master only]
  * [*Runaway* EP - Bad Luck Penny][blp_runaway] [folk punk, 2025]
@@ -40,6 +40,7 @@ and make sanity checks with QSC K12.2s and a couple of smaller low-quality speak
 [email]: mailto:eloise@emote.ch
 [instagram]: https://instagram.com/eloise.rgb
 
+[peroxide_iwish]: https://youtu.be/EWwuGf8tJio
 [blp_runaway]: https://badluckpenny.bandcamp.com/album/runaway
 [rebecka_passion]: https://rebecka.bandcamp.com/album/passion-is-failing
 [cm5k_egomania]: https://cowmangler5000.bandcamp.com/album/egomania-anhedonia
