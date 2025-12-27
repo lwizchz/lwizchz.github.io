@@ -10,6 +10,7 @@ can be discussed via email at [eloise@emote.ch][email] or via Instagram DM [@elo
 
 ### Mastering Engineer Credits
 
+ * [*Spin* (Demo) - Samantha Flowers][sam_spin] [shoegaze, 2025, rough mix]
  * [*I wish i could never hear this album again* EP - Peroxide Gut][peroxide_iwish] [grindcore, 2025]
  * *Treat Box* LP - Team Trust [art punk, 2025, tape master only]
  * *Split* EP - Oshera / Tamsen [screamo, 2025, tape master only]
@@ -40,6 +41,7 @@ and make sanity checks with QSC K12.2s and a couple of smaller low-quality speak
 [email]: mailto:eloise@emote.ch
 [instagram]: https://instagram.com/eloise.rgb
 
+[sam_spin]: https://open.spotify.com/album/7Lup8Yzl8ER5W9xt7PwuvU
 [peroxide_iwish]: https://youtu.be/EWwuGf8tJio
 [blp_runaway]: https://badluckpenny.bandcamp.com/album/runaway
 [rebecka_passion]: https://rebecka.bandcamp.com/album/passion-is-failing
