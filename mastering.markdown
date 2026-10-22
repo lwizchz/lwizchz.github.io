@@ -6,7 +6,7 @@ permalink: /mastering/
 
 Eloise Montalvo has been involved in the Austin music scene since 2021, playing shows, running
 sound, recording, mixing, mastering, and more. She is currently accepting work for mastering which
-can be discussed via email at [eloise@emote.ch][email] or via Instagram DM [@eloise.rgb][instagram].
+can be discussed via email at [eloise.rgb@pm.me][email] or via Instagram DM [@eloise.rgb][instagram].
 
 ### Mastering Engineer Credits
 
@@ -33,6 +33,13 @@ of muddiness. The original source was minimally mixed on a cassette portastudio 
 requested that some extra EQing be done to improve the audibility. A more standard master can be
 heard in the Bad Luck Penny EP above, however I don't have an A/B sample available at this time.
 
+### Pricing and Timeline
+
+Pricing: $25 base + $8/min of audio
+(+$1/min for each additional format (e.g. tape, vinyl))
+
+Timeline: 1 week turnaround time, up to 2 revisions within 2 weeks of delivery
+
 ### Process & Hardware
 
 My usual process includes some light saturation and compression, followed by a limiter and clipper.
@@ -40,7 +47,7 @@ I adjust each of these stages according to the genre and artist notes. My hardwa
 of Kali Audio LP-UNFs and when mastering for tape, a TEAC A-550RX. Otherwise I work solely in-box
 and make sanity checks with QSC K12.2s and a couple of smaller low-quality speakers.
 
-[email]: mailto:eloise@emote.ch
+[email]: mailto:eloise.rgb@pm.me
 [instagram]: https://instagram.com/eloise.rgb
 
 [fifi_doggie]: https://fifiknifefight.bandcamp.com/album/do-you-wanna-doggie-bag
