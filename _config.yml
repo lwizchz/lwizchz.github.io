@@ -23,7 +23,7 @@ email: &EMAIL eloise.rgb@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   eloise's blog for whatever <3
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.emote.ch" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lwizchz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyll
 #github_username:  jekyll
 

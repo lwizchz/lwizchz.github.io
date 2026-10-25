@@ -4,9 +4,10 @@ title: Mixing
 permalink: /mixing/
 ---
 
-Eloise Montalvo has been involved in the Austin music scene since 2021, playing shows, running
-sound, recording, mixing, mastering, and more. She is currently accepting work for mixing which
-can be discussed via email at [eloise.rgb@pm.me][email] or via Instagram DM [@eloise.rgb][instagram].
+Eloise Montalvo has been involved in the Austin music scene since 2021, playing
+shows, running sound, recording, mixing, mastering, and more. She is currently
+accepting work for mixing which can be discussed via email at
+[eloise.rgb@pm.me][email] or via Instagram DM [@eloise.rgb][instagram].
 
 ### Mixing Engineer Credits
 
@@ -23,6 +24,9 @@ Pricing: $25/min of audio
 
 Timeline: several weeks depending on amount of songs, new mix + client notes
 weekly, maximum 6 revisions
+
+Note: I'm also able to incude [Mastering](https://lwizchz.github.io/mastering),
+please contact me to discuss.
 
 ### Process & Hardware
 

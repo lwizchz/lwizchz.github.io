@@ -4,9 +4,10 @@ title: Mastering
 permalink: /mastering/
 ---
 
-Eloise Montalvo has been involved in the Austin music scene since 2021, playing shows, running
-sound, recording, mixing, mastering, and more. She is currently accepting work for mastering which
-can be discussed via email at [eloise.rgb@pm.me][email] or via Instagram DM [@eloise.rgb][instagram].
+Eloise Montalvo has been involved in the Austin music scene since 2021, playing
+shows, running sound, recording, mixing, mastering, and more. She is currently
+accepting work for mastering which can be discussed via email at
+[eloise.rgb@pm.me][email] or via Instagram DM [@eloise.rgb][instagram].
 
 ### Mastering Engineer Credits
 
@@ -28,10 +29,11 @@ can be discussed via email at [eloise.rgb@pm.me][email] or via Instagram DM [@el
 
 {% include embed-audio-ab.html id="sample-rebecka" src-a="/assets/samples/False Memories - rebecka (Before Mastering).mp3" src-b="/assets/samples/False Memories - rebecka (After Mastering).mp3" label-a="Before" label-b="After" %}
 
-In this sample, you can notice a stark difference between the Before and After, primarily in terms
-of muddiness. The original source was minimally mixed on a cassette portastudio and the artist
-requested that some extra EQing be done to improve the audibility. A more standard master can be
-heard in the Bad Luck Penny EP above, however I don't have an A/B sample available at this time.
+In this sample, you can notice a stark difference between the Before and After,
+primarily in terms of muddiness. The original source was minimally mixed on a
+cassette portastudio and the artist requested that some extra EQing be done to
+improve the audibility. A more standard master can be heard in the Bad Luck
+Penny EP above, however I don't have an A/B sample available at this time.
 
 ### Pricing and Timeline
 
@@ -40,12 +42,17 @@ Pricing: $25 base + $8/min of audio
 
 Timeline: 1 week turnaround time, up to 2 revisions within 2 weeks of delivery
 
+Note: I'm also able to include [Mixing](https://lwizchz.github.io/mixing),
+please contact me to discuss.
+
 ### Process & Hardware
 
-My usual process includes some light saturation and compression, followed by a limiter and clipper.
-I adjust each of these stages according to the genre and artist notes. My hardware includes a pair
-of Kali Audio LP-UNFs and when mastering for tape, a TEAC A-550RX. Otherwise I work solely in-box
-and make sanity checks with QSC K12.2s and a couple of smaller low-quality speakers.
+My usual process includes some light saturation and compression, followed by a
+limiter and clipper. I adjust each of these stages according to the genre and
+artist notes. My hardware includes a pair of Kali Audio LP-UNFs and when
+mastering for tape, a TEAC A-550RX. Otherwise I work solely in-box and make
+sanity checks with Audio-Technica ATH-M50x headphones, QSC K12.2s and a couple
+of smaller low-quality speakers.
 
 [email]: mailto:eloise.rgb@pm.me
 [instagram]: https://instagram.com/eloise.rgb
